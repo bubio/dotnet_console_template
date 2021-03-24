@@ -1,0 +1,8 @@
+{
+    "full_name": "taro momo",
+    "project_name": "dotnet console app",
+    "app_name": "command",
+    "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_')}}",
+    "project_short_description": "This is a template for creating a console app with one executable file.",
+    "version": "0.1.0"
+}
